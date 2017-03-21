@@ -3,6 +3,9 @@
 
 ### How to install ###
 
+Download video files from this link and add to folder:
+https://drive.google.com/drive/folders/0B3rf6uE8XKHVY0x4aUdueldkODQ
+
 Extra modules used in this Python project.
 pip install
 
